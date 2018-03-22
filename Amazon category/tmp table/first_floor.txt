@@ -1,0 +1,11 @@
+{"categories_name": "Women", "href": "https://www.amazon.com/s/ref=lp_7141123011_ex_n_1/143-3620478-1851336?rh=n%3A7141123011%2Cn%3A7147440011&bbn=7141123011&ie=UTF8"}
+{"categories_name": "Men", "href": "https://www.amazon.com/s/ref=lp_7141123011_ex_n_2/143-3620478-1851336?rh=n%3A7141123011%2Cn%3A7147441011&bbn=7141123011&ie=UTF8"}
+{"categories_name": "Girls", "href": "https://www.amazon.com/s/ref=lp_7141123011_ex_n_3/143-3620478-1851336?rh=n%3A7141123011%2Cn%3A7147442011&bbn=7141123011&ie=UTF8"}
+{"categories_name": "Boys", "href": "https://www.amazon.com/s/ref=lp_7141123011_ex_n_4/143-3620478-1851336?rh=n%3A7141123011%2Cn%3A7147443011&bbn=7141123011&ie=UTF8"}
+{"categories_name": "Baby", "href": "https://www.amazon.com/s/ref=lp_7141123011_ex_n_5/143-3620478-1851336?rh=n%3A7141123011%2Cn%3A7147444011&bbn=7141123011&ie=UTF8"}
+{"categories_name": "Novelty & More", "href": "https://www.amazon.com/s/ref=lp_7141123011_ex_n_6/143-3620478-1851336?rh=n%3A7141123011%2Cn%3A7147445011&bbn=7141123011&ie=UTF8"}
+{"categories_name": "Luggage & Travel Gear", "href": "https://www.amazon.com/s/ref=lp_7141123011_ex_n_7/143-3620478-1851336?rh=n%3A7141123011%2Cn%3A9479199011&bbn=7141123011&ie=UTF8"}
+{"categories_name": "Uniforms, Work & Safety", "href": "https://www.amazon.com/s/ref=lp_7141123011_ex_n_8/143-3620478-1851336?rh=n%3A7141123011%2Cn%3A7586144011&bbn=7141123011&ie=UTF8"}
+{"categories_name": "Costumes & Accessories", "href": "https://www.amazon.com/s/ref=lp_7141123011_ex_n_9/143-3620478-1851336?rh=n%3A7141123011%2Cn%3A7586165011&bbn=7141123011&ie=UTF8"}
+{"categories_name": "Shoe, Jewelry & Watch Accessories", "href": "https://www.amazon.com/s/ref=lp_7141123011_ex_n_10/143-3620478-1851336?rh=n%3A7141123011%2Cn%3A7586146011&bbn=7141123011&ie=UTF8"}
+{"categories_name": "Traditional & Cultural Wear", "href": "https://www.amazon.com/s/ref=lp_7141123011_ex_n_11/143-3620478-1851336?rh=n%3A7141123011%2Cn%3A7586166011&bbn=7141123011&ie=UTF8"}
